@@ -1,6 +1,5 @@
 // ******************************************************************************
 // Filename:    QBT.cpp
-// Project:     Qube
 // Author:      Steven Ball
 // 
 // Revision History:
