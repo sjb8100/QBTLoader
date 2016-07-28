@@ -18,12 +18,10 @@
 
 QBT::QBT()
 {
-
 }
 
 QBT::~QBT()
 {
-
 }
 
 bool QBT::LoadQBTFile(string filename)
@@ -67,7 +65,6 @@ bool QBT::LoadQBTFile(string filename)
 
 	return false;
 }
-
 
 bool QBT::LoadNode(FILE* pQBTfile)
 {
